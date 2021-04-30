@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameronBrenton and I am a Keyin college software development student.
 - 👀 I’m interested in ... All things programming, sports, games, languages, cultures, music, good literature, movies, philosophical discussion and much more!
-- 🌱 I’m currently learning ... Back-end development.
+- 🌱 I’m currently learning ... Back-end development, plus more. There is never an end to learning!
 - 💞️ I’m looking to collaborate on ... Anything at all!
 - 📫 How to reach me ... cameron.brenton@keyin.com
 
