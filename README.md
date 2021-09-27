@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameronBrenton and I am a Keyin College Software Development student.
 - Check out my portfolio website!: http://www.cameron-brenton.com.s3-website-us-east-1.amazonaws.com/
-- 👀 I’m interested in ... All things programming, sports, games, languages, cultures, music, books, movies, philosophy, science and much more!
+- 👀 I’m interested in ... All things programming, learning languages, cultures, sports, games, music, books, movies, philosophy, science and much more!
 - 🌱 I’m currently learning ... DevOps, Advanced Programming, Unit Testing, AWS Cloud, plus more. There is never an end to learning!
 - 💞️ I’m looking to collaborate on ... Anything at all!
 - 📫 How to reach me ... cameron.brenton@keyin.com
