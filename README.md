@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CameronBrenton and I am a Keyin College Software Development student.
+- 👋 Hi, I’m @CameronBrenton and I am a Full-Stack Developer at Learning Labs Research and Development.
 - Check out my portfolio website!: http://www.cameron-brenton.com.s3-website-us-east-1.amazonaws.com/
 - 👀 I’m interested in ... All things programming, learning languages, cultures, sports, games, music, books, movies, philosophy, science and much more!
-- 🌱 I’m currently learning ... DevOps, Advanced Programming, Unit, Form, and Validation Testing, AWS Cloud Architecting, CI/CD Pipeline,  Microservices plus so much more. There is never an end to learning!
+- 🌱 I’m currently learning ... All things Programming, React-Redux, 
 - 💞️ I’m looking to collaborate on ... Anything at all!
 - 📫 How to reach me ... cameron.brenton@keyin.com
 
